@@ -1,0 +1,16 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google-cloud/monitoring": "^0.3.0",
+    "async": "^2.5.0",
+    "request": "^2.81.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
