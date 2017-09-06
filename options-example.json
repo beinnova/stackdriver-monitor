@@ -1,0 +1,9 @@
+{
+	"apiUrl": {
+		"instance": "instace-url-google-api",
+		"project": "project-url-google-api"
+
+	},
+	"metricType":  "custom-metric"
+
+}
